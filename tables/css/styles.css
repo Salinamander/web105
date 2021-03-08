@@ -1,0 +1,50 @@
+body{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color:ivory;
+    color: #440027;
+}
+
+h1{
+    color:#440027;
+    text-align: center;
+
+}
+
+.container{
+    border:blueviolet 3px solid;
+    margin:10px auto;
+    padding:10px;
+    border-radius:10px;
+    width:80%;
+    overflow:auto;
+}
+
+nav{
+    text-align: center;
+    border:darkslateblue 4px solid;
+    padding:10px;
+    border-radius:10px;
+    margin:5px auto;
+    line-height:3;
+}
+
+a{
+    background-color:cornflowerblue;
+    color:darkorchid;
+    border-radius:5px;
+    padding:5px;
+    border:black 2px solid;
+    
+}
+
+a:hover{
+    background-color: rgb(17, 67, 160);
+    color:blanchedalmond;
+    border:black 2px solid;
+}
+
+table,th,td{
+    border: 1px solid rgb(17, 67, 160);
+    margin:20px auto;
+}
+   
